@@ -3,23 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=185FA5&center=true&vCenter=true&width=600&lines=I'm+Ali+Shaalan;CompE+And+UAV+Research+%40+UMD" alt="Typing SVG" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4f794e14-cff4-4ff4-965d-fbc57247e120" width="320"/>
-</div>
-
-
-<br/>
-
----
-
-🎮 Uncharted · Tomb Raider · COD · osu!  
-🐉 Dragon Ball Z · One Piece  
-🔧 Cars (the real kind)
-
----
-
 ![Python](https://img.shields.io/badge/Python-185FA5?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-1D9E75?style=flat-square&logo=react&logoColor=white)
 ![C](https://img.shields.io/badge/C-D85A30?style=flat-square&logo=c&logoColor=white)
