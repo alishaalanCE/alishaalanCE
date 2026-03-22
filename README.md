@@ -6,9 +6,6 @@
 <br/>
 
 <div align="center">
-  <img src="[https://i.imgur.com/dBaSKWF.gif](https://www.pinterest.com/pin/luffy-eating-gif-luffy-eating-hungry-discover-share-gifs--648659152590236942/)" width="320" alt="this is fine"/>
-  <br/>
-  <sub><i>me after every assignment</i></sub>
 </div>
 
 <br/>
