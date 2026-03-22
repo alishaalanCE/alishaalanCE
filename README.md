@@ -67,7 +67,7 @@
 
 ### 🎮 outside of code
 
-gaming on my off hours — Uncharted, Tomb Raider, COD, osu! &nbsp;|&nbsp; Dragon Ball Z & One Piece &nbsp;|&nbsp; cars (the real kind)
+Uncharted, Tomb Raider, COD, osu!|Dragon Ball Z & One Piece &nbsp;|&nbsp; cars (the real kind)
 
 ---
 
