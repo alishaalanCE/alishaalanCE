@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=185FA5&center=true&vCenter=true&width=600&lines=Hey+I'm+Ali+%F0%9F%91%8B;CompE+%40+UMD+%7C+Dean's+List;Building+cool+stuff+in+the+DMV" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=185FA5&center=true&vCenter=true&width=600&lines=Hey+I'm+Ali+%F0%9F%91%8B;CompE+%40+UMD+%7C;Building+cool+stuff+in+the+DMV" alt="Typing SVG" />
 </h1>
 
 <p align="center">
