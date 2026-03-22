@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=185FA5&center=true&vCenter=true&width=600&lines=I'm+Ali+Shaalan;CompE+And+UAV+Research+%40+UMD" alt="Typing SVG" />
 </div>
-
 ![Python](https://img.shields.io/badge/Python-185FA5?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-1D9E75?style=flat-square&logo=react&logoColor=white)
 ![C](https://img.shields.io/badge/C-D85A30?style=flat-square&logo=c&logoColor=white)
@@ -13,7 +12,4 @@
 ![Linux](https://img.shields.io/badge/Linux-444444?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-185FA5?style=flat-square&logo=git&logoColor=white)
 
----
-
 📫 ashaalan@terpmail.umd.edu
-```
